@@ -1,0 +1,23 @@
+{
+  "name": "vue3-infinite-load",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bulanzade/vue3-infinite-load.git"
+  },
+  "keywords": [
+    "vue3",
+    "infinite-scroll"
+  ],
+  "author": "bulan_zade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bulanzade/vue3-infinite-load/issues"
+  },
+  "homepage": "https://github.com/bulanzade/vue3-infinite-load#readme"
+}
